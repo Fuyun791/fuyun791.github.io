@@ -1,13 +1,13 @@
 # Site
 title:              Fuyun
 bio:                '在最有热情的年纪，做最爱的事情.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "可以叫我浮云，这是我的博客，记录一些学习上的心得体会，如果能帮助到你，是我的荣信."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/img791.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             en_ZH
 url:                https://fuyun791.github.io
 
 # Jekyll
