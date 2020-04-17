@@ -1,11 +1,11 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# Fuyun Bolg
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+**[Fuyun](https://Fuyun.github.io/Moon)** 这是我的个人博客，记录了我的学习记录
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+模板使用了[Moon](https://github.com/TaylanTatli/Moon)的Moon Jekyll Theme
 
+* [Moon Jekyll Theme](https://taylantatli.github.io/Moon/moon-theme/)的使用方法
+* [Fuyun](https://fuyun791.github.io)如果你期望看到中文理解的搭建方式
 
 ## Preview
 
