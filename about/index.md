@@ -4,10 +4,10 @@ title: 关于我
 tags: [about, Jekyll, theme, moon]
 date: 2020-04-16
 comments: false
-feature: http://localhost:4000/assets/img/picture/300.jpg
+feature: https://Fuyun791.github.io/assets/img/picture/300.jpg
 ---
 
-<center><a href="http://Fuyun791.github.io"><b>浮云</b></a> 一个热爱这份职业的人.</center>
+<center><a href="https://Fuyun791.github.io"><b>浮云</b></a> 一个热爱这份职业的人.</center>
 
 一名大三的本科学生，主学java。
 
