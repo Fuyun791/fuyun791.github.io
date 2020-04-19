@@ -8,7 +8,8 @@ logo:               'assets/img/img791.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_ZH
-url:                https://fuyun791.github.io
+#url:                https://fuyun791.github.io
+url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   fuyun
+disqus_shortname:   fuyuncai
 
 # Social
 # if you don't have any of social below, comment the line.
