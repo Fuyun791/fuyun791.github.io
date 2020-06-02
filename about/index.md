@@ -21,15 +21,15 @@ feature: https://Fuyun791.github.io/assets/img/picture/300.jpg
 ## 接下来文章的方向
 
 1. Elasticsearch
-2. Spring AOP
+2. redis
 3. Java源码
 4. 算法
 5. 限流这个方面，研究能拿得出手的专业技术经历
-6. 分布式微服务（Spring Cloud与Dubbo）
+6. 分布式微服务（Spring Cloud或Dubbo）
 
 ## 学习计划
 
-1. 博客打算维持每周至少一更
+1. 因为最近都在写一个关于教学管理的项目参加竞赛，所以都没时间写博客，等过了这阵子就可以对这段时间的学习进行一个总结回顾
 2. 算法先争取两天一题
 3. 打算将自己的商城项目进行一次重构
 
