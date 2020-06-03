@@ -16,7 +16,7 @@ feature: https://Fuyun791.github.io/assets/img/picture/300.jpg
 ## 联系我的方式
 
 1. 邮箱：1648350517@qq.com 或直接用这个QQ号联系我，请注明来意
-2. GitHub账号：<a href="https://github.com/Fuyun791"><b>https://github.com/Fuyun791</b></a> 暂时未有好的项目在仓库里
+2. GitHub账号：<a href="https://github.com/Fuyun791"><b>https://github.com/Fuyun791</b></a> 暂时未有好且完成度高的项目在仓库里
 3. CSDN：<a href="https://me.csdn.net/weixin_43882435"><b>https://me.csdn.net/weixin_43882435</b></a> CSDN里的文章目前比这个博客多
 
 ## 近况与学习计划
