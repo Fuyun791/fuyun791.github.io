@@ -7,7 +7,7 @@ comments: false
 feature: https://Fuyun791.github.io/assets/img/picture/300.jpg
 ---
 
-<center><a href="https://Fuyun791.github.io"><b>浮云</b></a> 一个热爱这份职业的人.</center>
+<center><a href="https://Fuyun791.github.io"><b>浮云</b></a> 一个喜欢编程的人.</center>
 
 一名大三的本科学生，主学java。
 
@@ -21,9 +21,8 @@ feature: https://Fuyun791.github.io/assets/img/picture/300.jpg
 
 ## 近况与学习计划
 
-1. 因为最近都在写一个关于教学管理的项目参加竞赛，所以都没时间写博客，等过了这阵子就可以对这段时间的学习进行一个总结回顾
-2. 算法买了本剑指Offer写
-3. 打算将自己的商城项目进行一次重构
+1. 学算法，学数学
+2. 写教学管理系统
 
 ## 接下来文章的方向
 
@@ -31,7 +30,6 @@ feature: https://Fuyun791.github.io/assets/img/picture/300.jpg
 2. redis
 3. Java源码
 4. 算法
-5. 限流这个方面，研究能拿得出手的专业技术经历
 6. 分布式微服务（Spring Cloud或Dubbo）
 
 
